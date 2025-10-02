@@ -1,7 +1,7 @@
 - 👋 Hello There 🐼
 - 👀 I’m interested Networking/Coding
-- 🌱 I’m currently learning Assembly and Python  
-- ⚡ Fun fact:  i like ursid
+- 🌱 I’m currently learning Python 🐍
+- ⚡ Fun fact:  i like ursid🐻🐻‍❄️🐼
 
 ---Resting Area for your---🐼
 <!---
